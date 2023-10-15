@@ -59,6 +59,9 @@ p {
 }
 
 @media (max-width: 770px) {
+  body {
+    padding: 0px 50px;
+  }
   img {
     height: 92px;
   }
